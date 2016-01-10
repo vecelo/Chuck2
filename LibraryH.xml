@@ -1,0 +1,2537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-01-02T16:23:06Z</date>
+	<key>Application Version</key><string>12.2.2.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/lazio/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C25299A9DE0B95D1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>260</key>
+		<dict>
+			<key>Track ID</key><integer>260</integer>
+			<key>Name</key><string>Ievan Polkka</string>
+			<key>Kind</key><string>Ringtone</string>
+			<key>Size</key><integer>516003</integer>
+			<key>Total Time</key><integer>33963</integer>
+			<key>Date Modified</key><date>2014-05-06T17:13:03Z</date>
+			<key>Date Added</key><date>2014-05-06T17:15:37Z</date>
+			<key>Bit Rate</key><integer>119</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>20356D8ECB58152D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Music/iTunes/iTunes%20Media/Ringtones/Ievan%20Polkka.m4r</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>262</key>
+		<dict>
+			<key>Track ID</key><integer>262</integer>
+			<key>Name</key><string>levan ponka</string>
+			<key>Kind</key><string>Ringtone</string>
+			<key>Size</key><integer>530366</integer>
+			<key>Total Time</key><integer>34963</integer>
+			<key>Date Modified</key><date>2014-05-06T16:40:14Z</date>
+			<key>Date Added</key><date>2014-05-06T17:15:47Z</date>
+			<key>Bit Rate</key><integer>119</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>295BC742E42FA796</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Music/iTunes/iTunes%20Media/Ringtones/levan%20ponka.m4r</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>264</key>
+		<dict>
+			<key>Track ID</key><integer>264</integer>
+			<key>Name</key><string>levan ponka</string>
+			<key>Kind</key><string>Ringtone</string>
+			<key>Size</key><integer>530366</integer>
+			<key>Total Time</key><integer>34963</integer>
+			<key>Date Modified</key><date>2014-05-06T16:40:14Z</date>
+			<key>Date Added</key><date>2014-05-06T17:20:56Z</date>
+			<key>Bit Rate</key><integer>119</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2EDB0B73B9B29138</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/levan%20ponka.m4r</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>280</key>
+		<dict>
+			<key>Track ID</key><integer>280</integer>
+			<key>Name</key><string>▶ Mẹ Yêu Không Nào - Xuân Mai [Official] - YouTube [720p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>61724592</integer>
+			<key>Total Time</key><integer>192005</integer>
+			<key>Date Modified</key><date>2014-08-22T16:36:38Z</date>
+			<key>Date Added</key><date>2014-08-22T16:55:41Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3492489003</integer>
+			<key>Play Date UTC</key><date>2014-09-02T00:50:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72D96E5F4270CBF8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>1280</integer>
+			<key>Video Height</key><integer>720</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/%E2%96%B6%20M%E1%BA%B9%20Y%C3%AAu%20Kh%C3%B4ng%20N%C3%A0o%20-%20Xu%C3%A2n%20Mai%20%5BOfficial%5D%20-%20YouTube%20%5B720p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>282</key>
+		<dict>
+			<key>Track ID</key><integer>282</integer>
+			<key>Name</key><string>▶ Mua Xuan OI, tet den roi - YouTube [360p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>11290398</integer>
+			<key>Total Time</key><integer>132283</integer>
+			<key>Date Modified</key><date>2014-08-22T16:41:27Z</date>
+			<key>Date Added</key><date>2014-08-22T16:55:41Z</date>
+			<key>Bit Rate</key><integer>93</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3493225737</integer>
+			<key>Play Date UTC</key><date>2014-09-10T13:28:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>743D1CB654F635ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>450</integer>
+			<key>Video Height</key><integer>360</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/%E2%96%B6%20Mua%20Xuan%20OI,%20tet%20den%20roi%20-%20YouTube%20%5B360p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>284</key>
+		<dict>
+			<key>Track ID</key><integer>284</integer>
+			<key>Name</key><string>▶ Xúc Xắc Xúc Xẻ - Bé Bảo An ft Phi Long [Official] - YouTube [720p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>76185139</integer>
+			<key>Total Time</key><integer>206262</integer>
+			<key>Date Modified</key><date>2014-08-22T16:37:52Z</date>
+			<key>Date Added</key><date>2014-08-22T16:55:41Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3492334354</integer>
+			<key>Play Date UTC</key><date>2014-08-31T05:52:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>68E34A6C73CA139D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>1280</integer>
+			<key>Video Height</key><integer>720</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/%E2%96%B6%20X%C3%BAc%20X%E1%BA%AFc%20X%C3%BAc%20X%E1%BA%BB%20-%20B%C3%A9%20B%E1%BA%A3o%20An%20ft%20Phi%20Long%20%5BOfficial%5D%20-%20YouTube%20%5B720p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>286</key>
+		<dict>
+			<key>Track ID</key><integer>286</integer>
+			<key>Name</key><string>Đi Học - Xuân Mai [Official] - YouTube [720p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>102594909</integer>
+			<key>Total Time</key><integer>284095</integer>
+			<key>Date Modified</key><date>2014-08-22T15:29:21Z</date>
+			<key>Date Added</key><date>2014-08-22T16:55:41Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3520157880</integer>
+			<key>Play Date UTC</key><date>2015-07-19T06:38:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>458CBEB7D09CC45B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>1280</integer>
+			<key>Video Height</key><integer>720</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/%C4%90i%20H%E1%BB%8Dc%20-%20Xu%C3%A2n%20Mai%20%5BOfficial%5D%20-%20YouTube%20%5B720p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>288</key>
+		<dict>
+			<key>Track ID</key><integer>288</integer>
+			<key>Name</key><string>Đi Học Về - Xuân Mai [Official] - YouTube [720p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>55653087</integer>
+			<key>Total Time</key><integer>150790</integer>
+			<key>Date Modified</key><date>2014-08-22T15:38:06Z</date>
+			<key>Date Added</key><date>2014-08-22T16:55:41Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3492333340</integer>
+			<key>Play Date UTC</key><date>2014-08-31T05:35:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC537B58A4D876F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>1280</integer>
+			<key>Video Height</key><integer>720</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/%C4%90i%20H%E1%BB%8Dc%20V%E1%BB%81%20-%20Xu%C3%A2n%20Mai%20%5BOfficial%5D%20-%20YouTube%20%5B720p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>290</key>
+		<dict>
+			<key>Track ID</key><integer>290</integer>
+			<key>Name</key><string>Hát Cùng Siêu Chíp - Mẹ Đi Vắng - Hoạt Hình VTV3 - YouTube [360p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>21450664</integer>
+			<key>Total Time</key><integer>282748</integer>
+			<key>Date Modified</key><date>2014-08-22T16:42:57Z</date>
+			<key>Date Added</key><date>2014-08-22T16:55:41Z</date>
+			<key>Bit Rate</key><integer>93</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3493142569</integer>
+			<key>Play Date UTC</key><date>2014-09-09T14:22:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FA94E6C77D46FCDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>530</integer>
+			<key>Video Height</key><integer>360</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/H%C3%A1t%20C%C3%B9ng%20Si%C3%AAu%20Ch%C3%ADp%20-%20M%E1%BA%B9%20%C4%90i%20V%E1%BA%AFng%20-%20Ho%E1%BA%A1t%20H%C3%ACnh%20VTV3%20-%20YouTube%20%5B360p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>292</key>
+		<dict>
+			<key>Track ID</key><integer>292</integer>
+			<key>Name</key><string>Xuân Xuân Ơi Xuân Đã Về - YouTube [360p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>10168194</integer>
+			<key>Total Time</key><integer>132283</integer>
+			<key>Date Modified</key><date>2014-08-22T16:39:25Z</date>
+			<key>Date Added</key><date>2014-08-22T16:55:41Z</date>
+			<key>Bit Rate</key><integer>93</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3493547226</integer>
+			<key>Play Date UTC</key><date>2014-09-14T06:47:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8FE7497959331DAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>450</integer>
+			<key>Video Height</key><integer>360</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/Xu%C3%A2n%20Xu%C3%A2n%20%C6%A0i%20Xu%C3%A2n%20%C4%90%C3%A3%20V%E1%BB%81%20-%20YouTube%20%5B360p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>294</key>
+		<dict>
+			<key>Track ID</key><integer>294</integer>
+			<key>Name</key><string>▶ Cả Nhà Thương Nhau - Xuân Mai [Official] - YouTube [720p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>51388791</integer>
+			<key>Total Time</key><integer>150418</integer>
+			<key>Date Modified</key><date>2014-08-22T16:36:30Z</date>
+			<key>Date Added</key><date>2014-08-22T16:55:41Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3520531669</integer>
+			<key>Play Date UTC</key><date>2015-07-23T14:27:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE4139C49BE33C16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>1280</integer>
+			<key>Video Height</key><integer>720</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/%E2%96%B6%20C%E1%BA%A3%20Nh%C3%A0%20Th%C6%B0%C6%A1ng%20Nhau%20-%20Xu%C3%A2n%20Mai%20%5BOfficial%5D%20-%20YouTube%20%5B720p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>296</key>
+		<dict>
+			<key>Track ID</key><integer>296</integer>
+			<key>Name</key><string>▶ HỒ QUANG HIẾU - CON BƯỚM XUÂN [Official MV] - YouTube [360p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>21188305</integer>
+			<key>Total Time</key><integer>239072</integer>
+			<key>Date Modified</key><date>2014-08-22T17:13:27Z</date>
+			<key>Date Added</key><date>2014-08-22T17:25:03Z</date>
+			<key>Bit Rate</key><integer>93</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3494353543</integer>
+			<key>Play Date UTC</key><date>2014-09-23T14:45:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F95CE92830985F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>360</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/%E2%96%B6%20H%E1%BB%92%20QUANG%20HI%E1%BA%BEU%20-%20CON%20B%C6%AF%E1%BB%9AM%20XU%C3%82N%20%5BOfficial%20MV%5D%20-%20YouTube%20%5B360p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>298</key>
+		<dict>
+			<key>Track ID</key><integer>298</integer>
+			<key>Name</key><string>▶ Em Đi Chơi Thuyền - Xuân Mai [Official] - YouTube [720p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>83869074</integer>
+			<key>Total Time</key><integer>211045</integer>
+			<key>Date Modified</key><date>2014-08-22T17:23:47Z</date>
+			<key>Date Added</key><date>2014-08-22T17:25:03Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3522429972</integer>
+			<key>Play Date UTC</key><date>2015-08-14T13:46:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A32B9EE0AE99BD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>1280</integer>
+			<key>Video Height</key><integer>720</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/%E2%96%B6%20Em%20%C4%90i%20Ch%C6%A1i%20Thuy%E1%BB%81n%20-%20Xu%C3%A2n%20Mai%20%5BOfficial%5D%20-%20YouTube%20%5B720p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>300</key>
+		<dict>
+			<key>Track ID</key><integer>300</integer>
+			<key>Name</key><string>Cháu Yêu Bà - Xuân Mai [Official] - YouTube [720p]</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>61677131</integer>
+			<key>Total Time</key><integer>175518</integer>
+			<key>Date Modified</key><date>2014-08-22T17:19:44Z</date>
+			<key>Date Added</key><date>2014-08-22T17:25:31Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3522430620</integer>
+			<key>Play Date UTC</key><date>2015-08-14T13:57:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21D90572DC4A6B64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>1280</integer>
+			<key>Video Height</key><integer>720</integer>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Desktop/NhacCapu/Ch%C3%A1u%20Y%C3%AAu%20B%C3%A0%20-%20Xu%C3%A2n%20Mai%20%5BOfficial%5D%20-%20YouTube%20%5B720p%5D.mp4</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>322</key>
+		<dict>
+			<key>Track ID</key><integer>322</integer>
+			<key>Name</key><string>Sweety &#38; Fluffy - Twinkle Twinkle</string>
+			<key>Kind</key><string>Ringtone</string>
+			<key>Size</key><integer>152719</integer>
+			<key>Total Time</key><integer>17994</integer>
+			<key>Date Modified</key><date>2014-09-22T14:18:33Z</date>
+			<key>Date Added</key><date>2014-09-22T14:27:42Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D3C8C0CFEA868225</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Downloads/Sweety%20&#38;%20Fluffy-Twinkle%20Twinkle.m4r</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>324</key>
+		<dict>
+			<key>Track ID</key><integer>324</integer>
+			<key>Name</key><string>Wala_Wala_Bing_Bang</string>
+			<key>Kind</key><string>Ringtone</string>
+			<key>Size</key><integer>117003</integer>
+			<key>Total Time</key><integer>13884</integer>
+			<key>Date Modified</key><date>2014-09-22T14:18:22Z</date>
+			<key>Date Added</key><date>2014-09-22T14:27:42Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>98E2820347361139</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Downloads/Wala_Wala_Bing_Bang.m4r</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>326</key>
+		<dict>
+			<key>Track ID</key><integer>326</integer>
+			<key>Name</key><string>Always On Tme</string>
+			<key>Artist</key><string>Ja Rule</string>
+			<key>Kind</key><string>Ringtone</string>
+			<key>Size</key><integer>120396</integer>
+			<key>Total Time</key><integer>18876</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-09-22T14:18:41Z</date>
+			<key>Date Added</key><date>2014-09-22T14:27:42Z</date>
+			<key>Bit Rate</key><integer>48</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>24F53A0DD881570B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/lazio/Downloads/Always%20On%20Tme.m4r</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>328</key>
+		<dict>
+			<key>Track ID</key><integer>328</integer>
+			<key>Name</key><string>Anh Nho Em Nguoi Yeu Cu</string>
+			<key>Artist</key><string>Minh Vuong M4U</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4465658</integer>
+			<key>Total Time</key><integer>278961</integer>
+			<key>Date Modified</key><date>2014-08-11T15:30:05Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>943DED4547A6EA36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Anh%20Nho%20Em%20Nguoi%20Yeu%20Cu%20-%20Minh%20Vuong%20M4U.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>330</key>
+		<dict>
+			<key>Track ID</key><integer>330</integer>
+			<key>Name</key><string>Anh Se Tot Ma</string>
+			<key>Artist</key><string>Pham Hong Phuoc,Thuy Chi</string>
+			<key>Album</key><string>Anh Se Tot Ma</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4701048</integer>
+			<key>Total Time</key><integer>293520</integer>
+			<key>Date Modified</key><date>2015-12-03T15:03:47Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>5C8E2DB003536B48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Anh%20Se%20Tot%20Ma%20-%20Pham%20Hong%20Phuoc%20Thuy%20Chi.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>332</key>
+		<dict>
+			<key>Track ID</key><integer>332</integer>
+			<key>Name</key><string>Bon Chu Lam</string>
+			<key>Artist</key><string>Truc Nhan,Thao Nhi</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4174324</integer>
+			<key>Total Time</key><integer>260754</integer>
+			<key>Date Modified</key><date>2014-08-11T15:21:41Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>58BAC452FB79E9BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Bon%20Chu%20Lam%20-%20Truc%20Nhan%20Truong%20Thao%20Nhi.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>334</key>
+		<dict>
+			<key>Track ID</key><integer>334</integer>
+			<key>Name</key><string>Buông Đôi Tay Nhau Ra</string>
+			<key>Artist</key><string>Sơn Tùng M-TP</string>
+			<key>Genre</key><string>Nhạc Trẻ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9118005</integer>
+			<key>Total Time</key><integer>226089</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-12-03T15:09:02Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B9A359E9F18DCAB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Bu%C3%B4ng%20%C4%90%C3%B4i%20Tay%20Nhau%20Ra-S%C6%A1n%20T%C3%B9ng%20M-TP_%5BNhacso.Net%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>336</key>
+		<dict>
+			<key>Track ID</key><integer>336</integer>
+			<key>Name</key><string>Chua Bao Gio</string>
+			<key>Artist</key><string>Thu Phuong</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5085184</integer>
+			<key>Total Time</key><integer>317779</integer>
+			<key>Date Modified</key><date>2015-07-13T13:19:03Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F6AC5D64CE065737</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Chua%20Bao%20Gio%20-%20Thu%20Phuong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>338</key>
+		<dict>
+			<key>Track ID</key><integer>338</integer>
+			<key>Name</key><string>Co Be Ngay Xua</string>
+			<key>Artist</key><string>Hoai Lam</string>
+			<key>Album</key><string>Co Be Ngay Xua</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3457671</integer>
+			<key>Total Time</key><integer>214726</integer>
+			<key>Date Modified</key><date>2015-07-13T13:14:41Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0C1FCF316EB04EE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Co%20Be%20Ngay%20Xua%20-%20Hoai%20Lam.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>340</key>
+		<dict>
+			<key>Track ID</key><integer>340</integer>
+			<key>Name</key><string>Con Mua Qua Khu</string>
+			<key>Artist</key><string>Hai Bang</string>
+			<key>Album</key><string>Con Mua Qua Khu</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5425570</integer>
+			<key>Total Time</key><integer>318981</integer>
+			<key>Date Modified</key><date>2014-08-11T15:30:35Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49D209A62D4433E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Con%20Mua%20Qua%20Khu%20-%20Hai%20Bang.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>342</key>
+		<dict>
+			<key>Track ID</key><integer>342</integer>
+			<key>Name</key><string>ConMuaNgangQua-M-TP</string>
+			<key>Artist</key><string>Www.Nhac.Vui.Vn Download Music Mp3 Free Nhanh Nhat Viet Nam--Y!M : quyet.chipcoiphoga</string>
+			<key>Album Artist</key><string>Www.Nhac.Vui.Vn Download Music Mp3 Free Nhanh Nhat Viet Nam</string>
+			<key>Composer</key><string>Www.Nhac.Vui.Vn Download Music Mp3 Free Nhanh Nhat Viet Nam</string>
+			<key>Album</key><string>Www.Nhac.Vui.Vn Download Music Mp3 Free Nhanh Nhat Viet Nam--Y!M : quyet.chipcoiphoga</string>
+			<key>Genre</key><string>Www.Nhac.Vui.Vn Download Music Mp3 Free Nhanh Nhat Viet Nam--Y!M : quyet.chipcoiphoga</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3751066</integer>
+			<key>Total Time</key><integer>234109</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-08-19T14:14:47Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Welcome To Website wWw.Nhac.vui.vn Y!M : ChipCoi
+  quyet.chipcoiphoga
+Download Music Mp3 Free Nhanh Nhat Viet Nam</string>
+			<key>Persistent ID</key><string>AC33EBBE3732D822</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/ConMuaNgangQua-M-TP.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>344</key>
+		<dict>
+			<key>Track ID</key><integer>344</integer>
+			<key>Name</key><string>Danh Cho Em</string>
+			<key>Artist</key><string>Hoang Ton</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3821568</integer>
+			<key>Total Time</key><integer>238811</integer>
+			<key>Date Modified</key><date>2013-08-19T14:09:26Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>387687D430C7ECBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Danh%20Cho%20Em%20-%20Hoang%20Ton.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>346</key>
+		<dict>
+			<key>Track ID</key><integer>346</integer>
+			<key>Name</key><string>Dau Mua</string>
+			<key>Artist</key><string>Trung Quan Idol</string>
+			<key>Album</key><string>Dau Mua (Single)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4166248</integer>
+			<key>Total Time</key><integer>260160</integer>
+			<key>Date Modified</key><date>2014-08-11T15:29:46Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>AC2A33E2B55BA9B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Dau%20Mua%20-%20Trung%20Quan%20Idol.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>348</key>
+		<dict>
+			<key>Track ID</key><integer>348</integer>
+			<key>Name</key><string>Dem Dinh Menh </string>
+			<key>Artist</key><string>Tuan Hung</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4958208</integer>
+			<key>Total Time</key><integer>309760</integer>
+			<key>Date Modified</key><date>2015-10-04T14:26:31Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D11906DA9E35980C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Dem%20Dinh%20Menh%20-%20Tuan%20Hung.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>350</key>
+		<dict>
+			<key>Track ID</key><integer>350</integer>
+			<key>Name</key><string>Den Khi Nao</string>
+			<key>Artist</key><string>Khac Viet</string>
+			<key>Album Artist</key><string>Khac Viet</string>
+			<key>Album</key><string>Anh Muon Quay Lai - Den Khi Nao - Nhac.vui.vn</string>
+			<key>Genre</key><string>Nhac Tre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3795427</integer>
+			<key>Total Time</key><integer>235807</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-19T14:12:58Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Nhac.vui.vn - Nghe &#38; Tải Nhạc Chất Lượng Cao</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B90A6495850F2736</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Den%20Khi%20Nao%20-%20Khac%20Viet.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>352</key>
+		<dict>
+			<key>Track ID</key><integer>352</integer>
+			<key>Name</key><string>Den Sau Phai Lau Nuoc Mat</string>
+			<key>Artist</key><string>Luong Bich Huu</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4485306</integer>
+			<key>Total Time</key><integer>280189</integer>
+			<key>Date Modified</key><date>2015-07-13T13:14:23Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>086A30F1182DB121</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Den%20Sau%20Phai%20Lau%20Nuoc%20Mat%20-%20Luong%20Bich%20Huu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>354</key>
+		<dict>
+			<key>Track ID</key><integer>354</integer>
+			<key>Name</key><string>Destiny</string>
+			<key>Artist</key><string>Hồ Ngọc Hà</string>
+			<key>Composer</key><string>Đỗ Hiếu</string>
+			<key>Genre</key><string>Nhạc Trẻ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11280504</integer>
+			<key>Total Time</key><integer>281155</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-12-03T15:10:53Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85F070384E4B1F18</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Destiny-H%E1%BB%93%20Ng%E1%BB%8Dc%20H%C3%A0_%5BNhacso.Net%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>356</key>
+		<dict>
+			<key>Track ID</key><integer>356</integer>
+			<key>Name</key><string>Xoa</string>
+			<key>Artist</key><string>Dong Nhi</string>
+			<key>Album Artist</key><string>Dong Nhi</string>
+			<key>Album</key><string>Album Nhac.vui.vn</string>
+			<key>Genre</key><string>Nhac Tre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3975430</integer>
+			<key>Total Time</key><integer>247745</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-19T14:16:20Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Nhac.vui.vn - Nghe &#38; Tải Nhạc Chất Lượng Cao</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3145A93DE242D0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Dong%20Nhi%20-%20Xoa.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>358</key>
+		<dict>
+			<key>Track ID</key><integer>358</integer>
+			<key>Name</key><string>Dung Bat Anh Manh Me</string>
+			<key>Artist</key><string>Ho Quang Hieu</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4800435</integer>
+			<key>Total Time</key><integer>299885</integer>
+			<key>Date Modified</key><date>2015-07-13T13:15:08Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F192C7BC084841A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Dung%20Bat%20Anh%20Manh%20Me%20-%20Ho%20Quang%20Hieu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>360</key>
+		<dict>
+			<key>Track ID</key><integer>360</integer>
+			<key>Name</key><string>Duoi Nhung Con Mua</string>
+			<key>Artist</key><string>Mr. Siro</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4756117</integer>
+			<key>Total Time</key><integer>297116</integer>
+			<key>Date Modified</key><date>2015-12-03T15:04:35Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>44151081B26EB198</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Duoi%20Nhung%20Con%20Mua%20-%20Mr%20Siro.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>362</key>
+		<dict>
+			<key>Track ID</key><integer>362</integer>
+			<key>Name</key><string>Em Di Tim Anh</string>
+			<key>Artist</key><string>Ho Ngoc Ha,Noo Phuoc Thinh</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4376636</integer>
+			<key>Total Time</key><integer>273397</integer>
+			<key>Date Modified</key><date>2015-07-13T13:15:28Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>27AD599865A777FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Em%20Di%20Tim%20Anh%20-%20Ho%20Ngoc%20Ha%20Noo%20Phuoc%20Thinh.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>364</key>
+		<dict>
+			<key>Track ID</key><integer>364</integer>
+			<key>Name</key><string>Em Khong Quay Ve</string>
+			<key>Artist</key><string>Hoang Ton,Yanbi</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4242037</integer>
+			<key>Total Time</key><integer>264986</integer>
+			<key>Date Modified</key><date>2013-08-19T14:04:43Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5EC5EE33FD1483DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Em%20Khong%20Quay%20Ve%20-%20Hoang%20Ton%20,%20Yanbi.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>366</key>
+		<dict>
+			<key>Track ID</key><integer>366</integer>
+			<key>Name</key><string>Em Muon</string>
+			<key>Artist</key><string>Bich Phuong</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4449319</integer>
+			<key>Total Time</key><integer>277942</integer>
+			<key>Date Modified</key><date>2013-08-19T14:07:52Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>169CB753C734CBA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Em%20Muon%20-%20Bich%20Phuong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>368</key>
+		<dict>
+			<key>Track ID</key><integer>368</integer>
+			<key>Name</key><string>Gia Minh La Nguoi La</string>
+			<key>Artist</key><string>Nhat Kim Anh,Ho Quang Hieu</string>
+			<key>Album Artist</key><string>Nhat Kim Anh,Ho Quang Hieu</string>
+			<key>Album</key><string>Album Nhac.vui.vn</string>
+			<key>Genre</key><string>Nhac Tre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4986880</integer>
+			<key>Total Time</key><integer>308166</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-19T14:13:24Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Nhac.vui.vn - Nghe &#38; Tải Nhạc Chất Lượng Cao</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E34A5E4CCDD9F6EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Gia%20Minh%20La%20Nguoi%20La%20-%20Nhat%20Kim%20Anh.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>370</key>
+		<dict>
+			<key>Track ID</key><integer>370</integer>
+			<key>Name</key><string>Gia Vo Nhung Em Yeu Anh</string>
+			<key>Artist</key><string>Miu Le</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3760128</integer>
+			<key>Total Time</key><integer>234888</integer>
+			<key>Date Modified</key><date>2013-08-19T14:04:34Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>EDD3E128B09E0C38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Gia%20Vo%20Nhung%20Em%20Yeu%20Anh%20-%20Miu%20Le.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>372</key>
+		<dict>
+			<key>Track ID</key><integer>372</integer>
+			<key>Name</key><string>Gá»i MÆ°a</string>
+			<key>Artist</key><string>Trung QuÃ¢n Idol</string>
+			<key>Album</key><string>139280</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5604146</integer>
+			<key>Total Time</key><integer>350119</integer>
+			<key>Date Modified</key><date>2014-08-11T15:30:36Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E75C50BD1C091706</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Goi%20Mua%20-%20Trung%20Quan%20Idol.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>374</key>
+		<dict>
+			<key>Track ID</key><integer>374</integer>
+			<key>Name</key><string>Gui Cho Anh</string>
+			<key>Artist</key><string>Khoi My</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4373251</integer>
+			<key>Total Time</key><integer>273188</integer>
+			<key>Date Modified</key><date>2013-08-19T14:09:42Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CF06D408FFDD40F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Gui%20Cho%20Anh%20-%20Khoi%20My.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>376</key>
+		<dict>
+			<key>Track ID</key><integer>376</integer>
+			<key>Name</key><string>Hanh Phuc Troi Xa</string>
+			<key>Artist</key><string>Vinh Thuyen Kim</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5332566</integer>
+			<key>Total Time</key><integer>333144</integer>
+			<key>Date Modified</key><date>2013-08-19T14:06:32Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>AF72737468DC2F24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Hanh%20Phuc%20Troi%20Xa%20-%20Vinh%20Thuyen%20Kim.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>378</key>
+		<dict>
+			<key>Track ID</key><integer>378</integer>
+			<key>Name</key><string>Het Roi</string>
+			<key>Artist</key><string>Ho Quang Hieu</string>
+			<key>Album</key><string>Chi La Anh Dang Mo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4001703</integer>
+			<key>Total Time</key><integer>249965</integer>
+			<key>Date Modified</key><date>2015-12-03T15:05:00Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4A22DE2B61287708</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Het%20Roi%20-%20Ho%20Quang%20Hieu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>380</key>
+		<dict>
+			<key>Track ID</key><integer>380</integer>
+			<key>Name</key><string>Khong Cam Xuc</string>
+			<key>Artist</key><string>Ho Quang Hieu</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3676160</integer>
+			<key>Total Time</key><integer>229642</integer>
+			<key>Date Modified</key><date>2013-08-19T14:11:22Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>28A9DB0672E53E54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Khong%20Cam%20Xuc%20-%20Ho%20Quang%20Hieu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>382</key>
+		<dict>
+			<key>Track ID</key><integer>382</integer>
+			<key>Name</key><string>Khong Quan Tam</string>
+			<key>Artist</key><string>Chi Dan</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4818944</integer>
+			<key>Total Time</key><integer>301113</integer>
+			<key>Date Modified</key><date>2013-08-19T14:11:00Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>32FAA208A58ABC35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Khong%20Quan%20Tam%20-%20Chi%20Dan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>384</key>
+		<dict>
+			<key>Track ID</key><integer>384</integer>
+			<key>Name</key><string>Không Yêu Cũng Đừng Làm Bạn</string>
+			<key>Artist</key><string>Khắc Việt</string>
+			<key>Composer</key><string>Nguyễn Hồng Thuận</string>
+			<key>Genre</key><string>Nhạc Trẻ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11371727</integer>
+			<key>Total Time</key><integer>283080</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-12-03T15:10:21Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74EC827D8D3F6741</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Kh%C3%B4ng%20Y%C3%AAu%20C%C5%A9ng%20%C4%90%E1%BB%ABng%20L%C3%A0m%20B%E1%BA%A1n-Kh%E1%BA%AFc%20Vi%E1%BB%87t_%5BNhacso.Net%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>386</key>
+		<dict>
+			<key>Track ID</key><integer>386</integer>
+			<key>Name</key><string>Lam Vo Anh Nhe</string>
+			<key>Artist</key><string>Chi Dan</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4160933</integer>
+			<key>Total Time</key><integer>259918</integer>
+			<key>Date Modified</key><date>2015-07-13T13:14:11Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>972596CC5CC23DC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Lam%20Vo%20Anh%20Nhe%20-%20Chi%20Dan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>388</key>
+		<dict>
+			<key>Track ID</key><integer>388</integer>
+			<key>Name</key><string>Lang Nghe Tim Em</string>
+			<key>Artist</key><string>Dong Nhi</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3862935</integer>
+			<key>Total Time</key><integer>241293</integer>
+			<key>Date Modified</key><date>2014-08-11T15:24:46Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CC8E277C5BBC8523</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Lang%20Nghe%20Tim%20Em%20-%20Dong%20Nhi.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>390</key>
+		<dict>
+			<key>Track ID</key><integer>390</integer>
+			<key>Name</key><string>Mua Co Don</string>
+			<key>Artist</key><string>Hoang Yen Chibi</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4117576</integer>
+			<key>Total Time</key><integer>257208</integer>
+			<key>Date Modified</key><date>2015-10-04T14:28:41Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>4D8AAAC3F2E9F77C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/M%20a%20C%20n%20-%20Ho%20ng%20Y%20n%20Chibi.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>392</key>
+		<dict>
+			<key>Track ID</key><integer>392</integer>
+			<key>Name</key><string>Mua Nho</string>
+			<key>Artist</key><string>Hoa Minzy</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3842998</integer>
+			<key>Total Time</key><integer>240048</integer>
+			<key>Date Modified</key><date>2015-10-04T14:28:47Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>0D8710BC944ADE16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/M%20a%20Nh%20-%20H%20a%20Minzy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>394</key>
+		<dict>
+			<key>Track ID</key><integer>394</integer>
+			<key>Name</key><string>Minh Chia Tay Bao Lau</string>
+			<key>Artist</key><string>Bao Anh,Hoang Ton</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3887622</integer>
+			<key>Total Time</key><integer>242834</integer>
+			<key>Date Modified</key><date>2014-08-11T15:24:29Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A9A1D3AD01811A48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Minh%20Yeu%20Nhau%20Bao%20Lau%20-%20Bao%20Anh%20Hoang%20Ton.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>396</key>
+		<dict>
+			<key>Track ID</key><integer>396</integer>
+			<key>Name</key><string>Mot Cong Mot Lon Hon Hai</string>
+			<key>Artist</key><string>Son Tung M-TP</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4143829</integer>
+			<key>Total Time</key><integer>258847</integer>
+			<key>Date Modified</key><date>2015-07-13T13:15:15Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E177B94CAECA0F2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Mot%20Cong%20Mot%20Lon%20Hon%20Hai%20-%20Son%20Tung%20M%20TP.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>398</key>
+		<dict>
+			<key>Track ID</key><integer>398</integer>
+			<key>Name</key><string>Một Thời Đã Xa</string>
+			<key>Artist</key><string>Thùy Chi</string>
+			<key>Album Artist</key><string>VA</string>
+			<key>Composer</key><string>Trường Huy</string>
+			<key>Album</key><string>Một Thời Đã Xa</string>
+			<key>Genre</key><string>Nhạc Trẻ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12815437</integer>
+			<key>Total Time</key><integer>317910</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-12-03T15:09:36Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>65634724B30EC68D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/M%E1%BB%99t%20Th%E1%BB%9Di%20%C4%90%C3%A3%20Xa-Th%C3%B9y%20Chi_%5BNhacso.Net%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>400</key>
+		<dict>
+			<key>Track ID</key><integer>400</integer>
+			<key>Name</key><string>My Everything</string>
+			<key>Artist</key><string>Tien Tien</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3166611</integer>
+			<key>Total Time</key><integer>197773</integer>
+			<key>Date Modified</key><date>2015-07-13T13:15:42Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F0A2001A4205EE71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/My%20Everything%20-%20Tien%20Tien.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>402</key>
+		<dict>
+			<key>Track ID</key><integer>402</integer>
+			<key>Name</key><string>Nam Lay Tay Anh</string>
+			<key>Artist</key><string>Tuan Hung</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4349021</integer>
+			<key>Total Time</key><integer>271673</integer>
+			<key>Date Modified</key><date>2014-08-11T15:25:04Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E0CB3D5B813C745F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Nam%20Lay%20Tay%20Anh%20-%20Tuan%20Hung.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>404</key>
+		<dict>
+			<key>Track ID</key><integer>404</integer>
+			<key>Name</key><string>Tro Dua Tao Hoa</string>
+			<key>Artist</key><string>Ho Quang Hieu</string>
+			<key>Album</key><string>Ngay Ay Se Den</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4614857</integer>
+			<key>Total Time</key><integer>288287</integer>
+			<key>Date Modified</key><date>2013-08-19T14:10:46Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4B38DAA2961EE080</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Ngay%20Ay%20Se%20Den%20-%20Ho%20Quang%20Hieu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>406</key>
+		<dict>
+			<key>Track ID</key><integer>406</integer>
+			<key>Name</key><string>Nguoi Khong Dang</string>
+			<key>Artist</key><string>Khac Viet</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3938632</integer>
+			<key>Total Time</key><integer>246024</integer>
+			<key>Date Modified</key><date>2015-07-13T13:14:35Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>D5505A2B4B91D84A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Nguoi%20Khong%20Dang%20-%20Khac%20Viet.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>408</key>
+		<dict>
+			<key>Track ID</key><integer>408</integer>
+			<key>Name</key><string>Nguoi La Tung Yeu</string>
+			<key>Artist</key><string>Luong Bich Huu,Tam Ho</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4231185</integer>
+			<key>Total Time</key><integer>264306</integer>
+			<key>Date Modified</key><date>2013-08-19T14:11:35Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0310D398CE70DCBC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Nguoi%20La%20Tung%20Yeu%20-%20Luong%20Bich%20Huu%20,%20Tam%20Ho.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>410</key>
+		<dict>
+			<key>Track ID</key><integer>410</integer>
+			<key>Name</key><string>Nguoi Toi Yeu</string>
+			<key>Artist</key><string>Chi Dan</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4165632</integer>
+			<key>Total Time</key><integer>260284</integer>
+			<key>Date Modified</key><date>2013-08-19T14:11:33Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F70DBC6B45293376</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Nguoi%20Toi%20Yeu%20-%20Chi%20Dan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>412</key>
+		<dict>
+			<key>Track ID</key><integer>412</integer>
+			<key>Name</key><string>Noi Anh Khong Thuoc Ve</string>
+			<key>Artist</key><string>365DaBand</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4190208</integer>
+			<key>Total Time</key><integer>261773</integer>
+			<key>Date Modified</key><date>2013-08-19T14:06:10Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2006BAFB08169B96</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Noi%20Anh%20Khong%20Thuoc%20Ve%20-%20365DaBand.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>414</key>
+		<dict>
+			<key>Track ID</key><integer>414</integer>
+			<key>Name</key><string>Noi Tinh Yeu Ket Thuc</string>
+			<key>Artist</key><string>Bui Anh Tuan</string>
+			<key>Album Artist</key><string>Bui Anh Tuan</string>
+			<key>Album</key><string>Album Nhac.vui.vn</string>
+			<key>Genre</key><string>Nhac Tre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5054592</integer>
+			<key>Total Time</key><integer>315846</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-19T14:14:31Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Nhac.vui.vn - Nghe &#38; Tải Nhạc Chất Lượng Cao</string>
+			<key>Persistent ID</key><string>59DD18A22447F57D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Noi%20Tinh%20Yeu%20Ket%20Thuc%20-%20Bui%20Anh%20Tuan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>416</key>
+		<dict>
+			<key>Track ID</key><integer>416</integer>
+			<key>Name</key><string>Noi Voi Em</string>
+			<key>Artist</key><string>BigDaddy</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3126896</integer>
+			<key>Total Time</key><integer>195291</integer>
+			<key>Date Modified</key><date>2014-08-11T15:23:10Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E2537352863BEF81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Noi%20Voi%20Em%20-%20BigDaddy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>418</key>
+		<dict>
+			<key>Track ID</key><integer>418</integer>
+			<key>Name</key><string>Ta Nen Dung Lai</string>
+			<key>Artist</key><string>Ong Cao Thang</string>
+			<key>Album Artist</key><string>Ong Cao Thang</string>
+			<key>Album</key><string>Album Nhac.vui.vn</string>
+			<key>Genre</key><string>Nhac Tre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4714496</integer>
+			<key>Total Time</key><integer>294217</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-19T14:17:02Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Nhac.vui.vn - Nghe &#38; Tải Nhạc Chất Lượng Cao</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58E5FB32918892D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Ong%20Cao%20Thang%20-%20Ta%20Nen%20Dung%20Lai.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>420</key>
+		<dict>
+			<key>Track ID</key><integer>420</integer>
+			<key>Name</key><string>Phia Sau Em</string>
+			<key>Artist</key><string>Nam Cuong,Ngo Kien Huy</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4647044</integer>
+			<key>Total Time</key><integer>290298</integer>
+			<key>Date Modified</key><date>2013-08-19T14:11:00Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7B9F4C4425130E79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Phia%20Sau%20Em%20-%20Nam%20Cuong%20,%20Ngo%20Kien%20Huy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>422</key>
+		<dict>
+			<key>Track ID</key><integer>422</integer>
+			<key>Name</key><string>Quen Nhu Chua Tung Yeu</string>
+			<key>Artist</key><string>Miu Le</string>
+			<key>Album</key><string>Quen Nhu Chua Tung Yeu</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4341860</integer>
+			<key>Total Time</key><integer>271224</integer>
+			<key>Date Modified</key><date>2014-08-11T15:30:18Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>17325C40B6BBF536</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Quen%20Nhu%20Chua%20Tung%20Yeu%20-%20Miu%20Le.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>424</key>
+		<dict>
+			<key>Track ID</key><integer>424</integer>
+			<key>Name</key><string>Rang Em Mai O Ben</string>
+			<key>Artist</key><string>Bich Phuong</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3565774</integer>
+			<key>Total Time</key><integer>222720</integer>
+			<key>Date Modified</key><date>2015-12-03T15:04:18Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>4D16E5854C2DD9DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Rang%20Em%20Mai%20O%20Ben%20-%20Bich%20Phuong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>426</key>
+		<dict>
+			<key>Track ID</key><integer>426</integer>
+			<key>Name</key><string>Sau Trong Em</string>
+			<key>Artist</key><string>Bich Phuong</string>
+			<key>Album</key><string>Sau Trong Em (Single)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4349476</integer>
+			<key>Total Time</key><integer>237648</integer>
+			<key>Date Modified</key><date>2015-07-13T13:15:55Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0DDA0C7E9461740C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Sau%20Trong%20Em%20-%20Bich%20Phuong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>428</key>
+		<dict>
+			<key>Track ID</key><integer>428</integer>
+			<key>Name</key><string>Say You Do</string>
+			<key>Artist</key><string>Tien Tien</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3528557</integer>
+			<key>Total Time</key><integer>220395</integer>
+			<key>Date Modified</key><date>2015-07-13T13:13:47Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3A7784DE1791E721</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Say%20You%20Do%20-%20Tien%20Tien.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>430</key>
+		<dict>
+			<key>Track ID</key><integer>430</integer>
+			<key>Name</key><string>Se Co Nguoi Can Anh</string>
+			<key>Artist</key><string>Cao Thai Son,Huong Tram</string>
+			<key>Album</key><string>Se Co Nguoi Can Anh (Single)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5207774</integer>
+			<key>Total Time</key><integer>320862</integer>
+			<key>Date Modified</key><date>2013-08-19T14:08:14Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2AE7889BB66AD263</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Se%20Co%20Nguoi%20Can%20Anh%20-%20Cao%20Thai%20Son%20,%20Huong%20Tram.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>432</key>
+		<dict>
+			<key>Track ID</key><integer>432</integer>
+			<key>Name</key><string>Song Trong Noi Nho</string>
+			<key>Artist</key><string>Mr. Siro</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5323287</integer>
+			<key>Total Time</key><integer>332564</integer>
+			<key>Date Modified</key><date>2015-12-03T15:04:56Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4E0A24218DC7AC91</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Song%20Trong%20Noi%20Nho%20-%20Mr%20Siro.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>434</key>
+		<dict>
+			<key>Track ID</key><integer>434</integer>
+			<key>Name</key><string>Toi Cho Co Gai Do</string>
+			<key>Artist</key><string>Khac Viet</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4236234</integer>
+			<key>Total Time</key><integer>264624</integer>
+			<key>Date Modified</key><date>2015-10-04T14:28:04Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>1C1AAC8FD7DF9316</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/T%20i%20Cho%20C%20G%20i%20-%20Kh%20c%20Vi%20t.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>436</key>
+		<dict>
+			<key>Track ID</key><integer>436</integer>
+			<key>Name</key><string>Thao Thuc Vi Em</string>
+			<key>Artist</key><string>Dam Vinh Hung</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3848192</integer>
+			<key>Total Time</key><integer>240404</integer>
+			<key>Date Modified</key><date>2015-10-04T14:26:56Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5514402A8E62E6CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Thao%20Thuc%20Vi%20Em%20-%20Dam%20Vinh%20Hung.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>438</key>
+		<dict>
+			<key>Track ID</key><integer>438</integer>
+			<key>Name</key><string>The Gioi Ao Tinh Yeu That</string>
+			<key>Artist</key><string>Trinh Dinh Quang</string>
+			<key>Album</key><string>The Gioi Ao Tinh Yeu That (Single)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5723879</integer>
+			<key>Total Time</key><integer>294295</integer>
+			<key>Date Modified</key><date>2015-07-13T13:14:52Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gioi Ao Tinh Yeu That (Single)</string>
+			<key>Sort Name</key><string>Gioi Ao Tinh Yeu That</string>
+			<key>Persistent ID</key><string>AD868D8F660832EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/The%20Gioi%20Ao%20Tinh%20Yeu%20That%20-%20Trinh%20Dinh%20Quang.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>440</key>
+		<dict>
+			<key>Track ID</key><integer>440</integer>
+			<key>Name</key><string>Tinh Yeu Mau Nang</string>
+			<key>Artist</key><string>Doan Thi Thuy Trang,BigDaddy</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4769792</integer>
+			<key>Total Time</key><integer>298031</integer>
+			<key>Date Modified</key><date>2013-08-19T14:02:40Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>86114DC9A46EEB25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Tinh%20Yeu%20Mau%20Nang%20-%20Doan%20Thuy%20Trang%20,%20BigDaddy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>442</key>
+		<dict>
+			<key>Track ID</key><integer>442</integer>
+			<key>Name</key><string>Tội Lỗi</string>
+			<key>Artist</key><string>Hồ Ngọc Hà</string>
+			<key>Album Artist</key><string>Hồ Ngọc Hà</string>
+			<key>Composer</key><string>Nguyễn Hồng Thuận</string>
+			<key>Genre</key><string>Nhạc Trẻ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7795127</integer>
+			<key>Total Time</key><integer>322664</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-12-03T15:11:11Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50B7681D9619BC77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/T%C3%B4%CC%A3i%20L%C3%B4%CC%83i-H%E1%BB%93%20Ng%E1%BB%8Dc%20H%C3%A0_%5BNhacso.Net%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>444</key>
+		<dict>
+			<key>Track ID</key><integer>444</integer>
+			<key>Name</key><string>Trot Yeu</string>
+			<key>Artist</key><string>Trung Quan Idol</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4608990</integer>
+			<key>Total Time</key><integer>287921</integer>
+			<key>Date Modified</key><date>2014-08-11T15:25:31Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1521AA44206BCC7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Trot%20Yeu%20-%20Trung%20Quan%20Idol.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>446</key>
+		<dict>
+			<key>Track ID</key><integer>446</integer>
+			<key>Name</key><string>Vo Nguoi Ta</string>
+			<key>Artist</key><string>Phan Manh Quynh</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3151572</integer>
+			<key>Total Time</key><integer>196832</integer>
+			<key>Date Modified</key><date>2015-10-04T14:27:35Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6D0A3F5F78325415</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/V%20Ng%20i%20Ta%20-%20Phan%20M%20nh%20Qu%20nh.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>448</key>
+		<dict>
+			<key>Track ID</key><integer>448</integer>
+			<key>Name</key><string>Vang Anh Di Di</string>
+			<key>Artist</key><string>Bich Phuong</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4419016</integer>
+			<key>Total Time</key><integer>276048</integer>
+			<key>Date Modified</key><date>2015-07-13T13:13:57Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>A2EF9F4BA39FF1B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Vang%20Anh%20Di%20Di%20-%20Bich%20Phuong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>450</key>
+		<dict>
+			<key>Track ID</key><integer>450</integer>
+			<key>Name</key><string>Vi Toi Con Song</string>
+			<key>Artist</key><string>Tien Tien</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3805256</integer>
+			<key>Total Time</key><integer>237688</integer>
+			<key>Date Modified</key><date>2015-12-03T15:04:58Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>81C144593DC57FFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Vi%20Toi%20Con%20Song%20-%20Tien%20Tien.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>452</key>
+		<dict>
+			<key>Track ID</key><integer>452</integer>
+			<key>Name</key><string>Voi Va Yeu Nhau Voi Va Roi</string>
+			<key>Artist</key><string>Ngo Kien Huy,Luong Bich Huu</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4965504</integer>
+			<key>Total Time</key><integer>310200</integer>
+			<key>Date Modified</key><date>2014-08-11T15:28:35Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>6C149AADFD8E4E79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Voi%20Va%20Yeu%20Nhau%20Voi%20Va%20Roi%20-%20Luong%20Bich%20Huu%20Ngo%20Kien%20Huy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>454</key>
+		<dict>
+			<key>Track ID</key><integer>454</integer>
+			<key>Name</key><string>Yeu Em La Dinh Menh (Single)</string>
+			<key>Artist</key><string>Cao Thai Son</string>
+			<key>Album</key><string>Yeu Em La Dinh Menh (Single)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4925602</integer>
+			<key>Total Time</key><integer>276888</integer>
+			<key>Date Modified</key><date>2014-08-11T15:31:06Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8EFD7CB5AE60FD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Yeu%20Em%20La%20Dinh%20Menh%20-%20Cao%20Thai%20Son.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>456</key>
+		<dict>
+			<key>Track ID</key><integer>456</integer>
+			<key>Name</key><string>Mai Nay Con Lon Len</string>
+			<key>Artist</key><string>Son Tung M-TP</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3890954</integer>
+			<key>Total Time</key><integer>243043</integer>
+			<key>Date Modified</key><date>2015-07-13T13:13:37Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>55B5F37A491564D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/An%20Nut%20Nho%20Tha%20Giac%20Mo%20-%20Son%20Tung%20M%20TP.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>458</key>
+		<dict>
+			<key>Track ID</key><integer>458</integer>
+			<key>Name</key><string>Anh Ghet Lam Ban Em</string>
+			<key>Artist</key><string>Phan Manh Quynh</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3953652</integer>
+			<key>Total Time</key><integer>246961</integer>
+			<key>Date Modified</key><date>2013-08-19T14:09:18Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>14E0A4DF556D742D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Anh%20Ghet%20Lam%20Ban%20Em%20-%20Phan%20Manh%20Quynh.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>460</key>
+		<dict>
+			<key>Track ID</key><integer>460</integer>
+			<key>Name</key><string>Anh Khong Sao Dau</string>
+			<key>Artist</key><string>Chi Dan</string>
+			<key>Album</key><string>mp3.zing.vn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4959659</integer>
+			<key>Total Time</key><integer>309838</integer>
+			<key>Date Modified</key><date>2015-07-13T13:16:10Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>95C2FC01FF9479A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Anh%20Khong%20Sao%20Dau%20-%20Chi%20Dan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>462</key>
+		<dict>
+			<key>Track ID</key><integer>462</integer>
+			<key>Name</key><string>Anh Nho Em</string>
+			<key>Artist</key><string>Tuan Hung</string>
+			<key>Album Artist</key><string>Tuan Hung</string>
+			<key>Album</key><string>Tuan Hung Vol.11</string>
+			<key>Genre</key><string>Nhac Tre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4124800</integer>
+			<key>Total Time</key><integer>257724</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-19T14:14:06Z</date>
+			<key>Date Added</key><date>2015-12-03T15:17:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Nhac.vui.vn - Nghe &#38; Tải Nhạc Chất Lượng Cao</string>
+			<key>Persistent ID</key><string>9503C83740835E33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/music/Anh%20Nho%20Em%20-%20Tuan%20Hung.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>464</integer>
+			<key>Playlist Persistent ID</key><string>3E203C2B2700EE65</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>322</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>366</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>462</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>552</integer>
+			<key>Playlist Persistent ID</key><string>8581659D5F45C9CF</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>366</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>412</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>629</integer>
+			<key>Playlist Persistent ID</key><string>99F0A952BD692A3C</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>646</integer>
+			<key>Playlist Persistent ID</key><string>05A9D1BABBF4B65E</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>649</integer>
+			<key>Playlist Persistent ID</key><string>A63568543F16B92A</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>iTunes U</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>656</integer>
+			<key>Playlist Persistent ID</key><string>1A26BF1A38022CD9</string>
+			<key>Distinguished Kind</key><integer>31</integer>
+			<key>iTunesU</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Books</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>659</integer>
+			<key>Playlist Persistent ID</key><string>79B280A1374D15EE</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>Books</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Tones</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>699</integer>
+			<key>Playlist Persistent ID</key><string>8641473FDDF3E412</string>
+			<key>Distinguished Kind</key><integer>6</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>322</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>324</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>708</integer>
+			<key>Playlist Persistent ID</key><string>C64FBAB5FBB1A0BF</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>90’s Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>711</integer>
+			<key>Playlist Persistent ID</key><string>7BB76B8540490E81</string>
+			<key>Distinguished Kind</key><integer>200</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Classical Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>714</integer>
+			<key>Playlist Persistent ID</key><string>7E0C805B2790FD29</string>
+			<key>Distinguished Kind</key><integer>206</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>My Top Rated</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>717</integer>
+			<key>Playlist Persistent ID</key><string>8FF6F250F3E3CDF4</string>
+			<key>Distinguished Kind</key><integer>201</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Added</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>720</integer>
+			<key>Playlist Persistent ID</key><string>45393AF2D5013743</string>
+			<key>Distinguished Kind</key><integer>204</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Played</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>791</integer>
+			<key>Playlist Persistent ID</key><string>602EEBA009B3D5FD</string>
+			<key>Distinguished Kind</key><integer>203</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Top 25 Most Played</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>794</integer>
+			<key>Playlist Persistent ID</key><string>03D926B21992CD6B</string>
+			<key>Distinguished Kind</key><integer>202</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>280</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Voice Memos</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>808</integer>
+			<key>Playlist Persistent ID</key><string>0E01DBD820CCB9E3</string>
+			<key>Distinguished Kind</key><integer>17</integer>
+			<key>All Items</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>
